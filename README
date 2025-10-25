@@ -1,0 +1,12 @@
+# Accessible Image Captioning
+
+## By Charulekha P
+
+## Run locally (CPU)
+1. python -m venv venv && source venv/bin/activate
+2. pip install -r requirements.txt
+3. cd app && uvicorn main:app --reload --port 8000
+4. cd ../frontend && streamlit run streamlit_app.py
+
+
+Open the Streamlit UI and upload an image.

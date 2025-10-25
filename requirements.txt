@@ -1,0 +1,8 @@
+fastapi==0.102.0
+uvicorn[standard]==0.23.2
+transformers==4.40.0
+torch==2.8.0
+Pillow==9.5.0
+gTTS==2.3.2
+streamlit==1.26.0
+requests==2.31.0
