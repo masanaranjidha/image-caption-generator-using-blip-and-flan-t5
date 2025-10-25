@@ -1,6 +1,6 @@
 # Accessible Image Captioning
 
-## By Charulekha P
+
 
 ## Run locally (CPU)
 1. python -m venv venv && source venv/bin/activate
